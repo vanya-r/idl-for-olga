@@ -2,3 +2,8 @@
 	path = vanya-r/idl-agent-portal
 	url = git@github.com:vanya-r/idl-agent-portal.git
 	branch = main
+
+[submodule "idl-agent-portal"]
+	path = idl-agent-portal
+	url = git@github.com:vanya-r/idl-agent-portal.git
+	branch = main
